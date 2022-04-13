@@ -4,3 +4,10 @@ Write-Output "Hello Mati!"
 $name = "Mateusz"
 Write-Output "Hello $name"
 Write-Output "Hello $env:USER"
+
+if () {
+    
+}
+else {
+    
+}
